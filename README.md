@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning frontend web development
 - 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me on twitter @jbenie3
+- 📫 How to reach me on twitter @jbenie3 or send an email @ abumerebenedicta26@gmail.com
 
 <!---
 DixtaJes/DixtaJes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
